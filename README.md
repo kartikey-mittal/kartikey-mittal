@@ -20,12 +20,14 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Ctrl + S: Saving lives since forever.</h2></summary>
+    <summary><h2 style="display: inline-block"> 𝐂𝐭𝐫𝐥 + 𝐒 : Saving lives since forever.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
+- 🎓 Currently pursuing B.Tech CSE at SRMIST-NCR (2nd Year)
+  
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
