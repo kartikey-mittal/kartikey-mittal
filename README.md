@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🎓 Currently pursuing B.Tech CSE at SRMIST-NCR (2nd Year)
+- 🎓 Currently pursuing B.Tech CSE at SRMIST-NCR
   
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
